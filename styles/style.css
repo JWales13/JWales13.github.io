@@ -1,0 +1,53 @@
+#topDiv {
+    background-image: url('../images/nightsky.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 500px;
+   background-position: center bottom;
+    margin-bottom: 50px;
+
+}
+
+.header {
+    color: white;
+    text-align: center;
+    padding-top: 350px;
+    font-family: Courier New, Courier, monospace;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, .75);
+    
+}
+
+.cwPic {
+    height: 300px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.fbPic {
+    height: 300px;
+    width: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+portfolioDiv {
+    display: inline-block;
+    
+}
+
+.container {
+    font-family: Courier New, Courier, monospace;
+    margin-bottom: 100px;
+}
+
+
+contactDiv h4 {
+    font-weight: bolder;
+}
